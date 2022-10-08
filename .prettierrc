@@ -1,0 +1,6 @@
+{
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "disable-color-correct-rendering": true,
+	"force-color-profile": "srgb"
+}
